@@ -15,7 +15,7 @@
             "modelTrims": [],
             "MakeModels": [
                 {
-                    "manufacturer": {
+                    "manufacturers": {
                         "manufacturerId": 21,
                         "displayName": "Acura",
                         "isChecked": true,
@@ -39,7 +39,7 @@
                     ]
                 },
                 {
-                    "manufacturer": {
+                    "manufacturers": {
                         "manufacturerId": 23,
                         "displayName": "BMW",
                         "isChecked": true,
