@@ -1,0 +1,166 @@
+{
+    "details": {
+        "id": "all",
+        "title": null,
+        "criteria": {
+            "modelYear": {
+                "start": 0,
+                "end": 2022
+            },
+            "isAsIs": false,
+            "mileage": {
+                "start": 0,
+                "end": 10000000
+            },
+            "MakeModels": [
+                {
+                    "manufacturer": {
+                        "manufacturerId": 21,
+                        "displayName": "Acura",
+                        "isChecked": true,
+                        "numOfModels": 2
+                    },
+                    "modelTrims": [
+                        {
+                            "model": {
+                                "modelId": 123,
+                                "displayName": "CL",
+                                "isChecked": true
+                            }
+                        },
+                        {
+                            "model": {
+                                "modelId": 124,
+                                "displayName": "ELA",
+                                "isChecked": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "manufacturer": {
+                        "manufacturerId": 23,
+                        "displayName": "BMW",
+                        "isChecked": true,
+                        "numOfModels": 2
+                    },
+                    "modelTrims": [
+                        {
+                            "model": {
+                                "modelId": 123,
+                                "displayName": "WWW",
+                                "isChecked": true
+                            }
+                        },
+                        {
+                            "model": {
+                                "modelId": 124,
+                                "displayName": "KKK",
+                                "isChecked": true
+                            }
+                        }
+                    ]
+                }
+            ],
+            "inputDefinitions": [
+                {
+                    "key": "0",
+                    "value": "0"
+                },
+                {
+                    "key": "0",
+                    "value": "1"
+                },
+                {
+                    "key": "0",
+                    "value": "2"
+                },
+                {
+                    "key": "0",
+                    "value": "3"
+                },
+                {
+                    "key": "0",
+                    "value": "4"
+                },
+                {
+                    "key": "0",
+                    "value": "5"
+                },
+                {
+                    "key": "0",
+                    "value": "6"
+                },
+                {
+                    "key": "0",
+                    "value": "7"
+                },
+                {
+                    "key": "0",
+                    "value": "8"
+                },
+                {
+                    "key": "0",
+                    "value": "9"
+                },
+                {
+                    "key": "0",
+                    "value": "10"
+                },
+                {
+                    "key": "0",
+                    "value": "11"
+                },
+                {
+                    "key": "0",
+                    "value": "12"
+                }
+            ],
+            "isWishList": false,
+            "locationFilter": {},
+            "isInStock": false,
+            "transmissionTypes": [
+                {
+                    "id": 0,
+                    "displayName": "Automatic"
+                },
+                {
+                    "id": 1,
+                    "displayName": "Manual"
+                }
+            ],
+            "fuelTypes": [
+                {
+                    "id": 1,
+                    "displayName": "Gasoline"
+                },
+                {
+                    "id": 2,
+                    "displayName": "Diesel"
+                },
+                {
+                    "id": 3,
+                    "displayName": "Flex Fuel"
+                },
+                {
+                    "id": 4,
+                    "displayName": "Hybrid"
+                },
+                {
+                    "id": 5,
+                    "displayName": "Electric"
+                },
+                {
+                    "id": 6,
+                    "displayName": "Alternate"
+                },
+                {
+                    "id": 0,
+                    "displayName": "Unknown"
+                }
+            ]
+        },
+        "enableNotification": false
+    },
+    "trades": {}
+}
